@@ -10,6 +10,7 @@ RUN apt-get update -q \
         alien \
         build-essential \
         cmake \
+        curl \
         git \
         lcov \
         libgtest-dev \
