@@ -11,6 +11,7 @@ RUN apt-get update -q \
         build-essential \
         cmake \
         git \
+        lcov \
         libgtest-dev \
         libnuma-dev \
         lsb-core \
